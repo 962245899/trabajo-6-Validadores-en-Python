@@ -1,0 +1,43 @@
+import os
+#INPUT
+print("LA TABERNA")
+cliente=os.sys.argv[1]
+vendedor=os.sys.argv[2]
+nº_de_vinos=float(os.sys.argv[3])
+nº_de_pisco=float(os.sys.argv[4])
+precio_unitario_vinos=float(os.sys.argv[5])
+precio_unitario_pisco=float(os.sys.argv[6])
+
+# PROCESSING
+total = ((precio_unitario_pisco* nº_de_pisco)+(precio_unitario_vinos * nº_de_vinos))
+
+#verificador
+limite1=(total>500)
+limite2=(490<=total<500)
+limite3=(0<total<490)
+
+# OUTPUT
+print("#######################")
+print("#LA TABERNA#")
+print("# BOLETA DE VENTA")
+print("#######################")
+print("#")
+print("# Cliente:  ", cliente)
+print("# Item   :  ",nº_de_vinos,"  nº_de_vinos")
+print("# Precio Unitario_vinos  :  S/.", precio_unitario_vinos)
+print("# Item   :  ",nº_de_pisco,"  nº_de_pisco")
+print("# Precio Unitario_pisco   :  S/.", precio_unitario_pisco)
+print("# Total  :  S/.", total)
+print("# nombre del vendedor:", vendedor)
+print("#######################")
+print("el total es mayor que el limite?", limite)
+
+#CONDICIONAL DOBLE
+#si la compra supera el limite entonces se lleva un sacacorchos
+if (limite1):
+    print("GANASTE UN SACACORCHOS")
+if (limite2):
+    print("GANASTE UN CUPON")
+if (limite3):
+    print("GRACIAS POR SU COMPRA")
+#fin_if
