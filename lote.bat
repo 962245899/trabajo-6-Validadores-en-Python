@@ -120,3 +120,126 @@ python condicional_multiple10.py "azucena" "trabajador30" 36 6 15 2
 python condicional_multiple10.py "damian" "trabajador30" 6 15 15 2
 
 #Cesar Maira Paz-192028G
+
+
+python simple1.py 14.5 10
+python simple1.py 20. 5
+python simple1.py 10 5
+
+python simple2.py 120 100
+python simple2.py 150 20
+python simple2.py 80 90
+
+
+python simple3.py 1000 2
+python simple3.py 1200 3
+python simple3.py 1800 3
+
+python simple4.py 600 15
+python simple4.py 200 10
+python simple4.py 150 10
+
+python simple5.py 55 600
+python simple5.py 280 350
+python simple5.py 550 135
+
+python simple6.py 660.6 100.5
+python simple6.py 550.4 200.5
+python simple6.py  800.7 135.4
+
+python simple7.py  150.5 10
+python simple7.py  300 30
+python simple7.py  200 5
+
+python simple8.py 20 10
+python simple8.py 30 30
+python simple8.py 15 15
+
+python simple9.py 1800 100 10
+python simple9.py 1000 50 2
+python simple9.py 850 50 10
+
+python simple10.py 80 10
+python simple10.py 100 2
+python simple10.py 180 10
+
+python dobles1.py "helbert" "zapatillas" 4 250
+python dobles1.py "york" "pantalones" 10 60
+python dobles1.py "ana" "carteras" 20 50
+
+python dobles2.py 20 30
+python dobles2.py 10 10
+python dobles2.py 50 40
+
+python dobles3.py 440 2
+python dobles3.py 600 4
+python dobles3.py 1800 3
+
+python dobles4.py 20 8
+python dobles4.py 500 5
+python dobles4.py 100 3
+
+python dobles5.py 400 6
+python dobles5.py 300 4
+python dobles5.py 200 3
+
+python dobles6.py 200 5
+python dobles6.py 500 135
+python dobles6.py 300 123
+
+python dobles7.py 225 350
+python dobles7.py 150 350
+python dobles7.py 200 700
+
+python dobles8.py 100 5 6
+python dobles8.py 200 10 2
+python dobles8.py 20 10 5
+
+python dobles9.py 10 30
+python dobles9.py 40 100
+python dobles9.py 50 10
+
+python dobles10.py 1500 3
+python dobles010.py 2000 10
+python dobles10.py 250 5
+
+python multiples1.py 400 4
+python multiples1.py 200 5
+python multiples1.py 42 3
+
+python multiples2.py 800 4
+python multiples2.py 100 2
+python multiples2.py 50 2
+
+python multiples3.py 20 30
+python multiples3.py 40 2
+python multiples3.py 50 3
+
+python multiples4.py 30 40
+python multiples4.py 60 30
+python multiples4.py 30 80
+
+python multiples5.py 60 65
+python multiples5.py 70 89
+python multiples5.py 23 50
+
+python multiples6.py 45 10
+python multiples6.py 35 25
+python multiples6.py 55 24
+
+python multiples7.py 200 15
+python multiples7.py 150 30
+python multiples7.py 250 25
+
+python multiples8.py 20 10
+python multiples8.py 35 45
+python multiples8.py 10 60
+
+python multiples9.py 500 2
+python multiples9.py 1800 3
+python multiples9.py 100 4
+
+python multiples10.py 20 10 10
+python multiples10.py 25 35 20
+python multiples10.py 15 55 23
+
